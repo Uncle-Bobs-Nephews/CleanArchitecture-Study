@@ -51,10 +51,10 @@
     .
 
 📂 [The Clean Architecture] 
-├── 📂 [brick]
-│   ├── [The Clean Architecture-brick].md
-│   📂 [will]
-│   ├── [The Clean Architecture-will].md  
+├── 📂 brick
+│   ├── The Clean Architecture-brick.md
+│   📂 will
+│   ├── The Clean Architecture-will.md  
 │   
     .
     .
