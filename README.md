@@ -14,8 +14,11 @@
   - PR Convention
     - [공부 주제] - [닉네임]
     - The Clean Architecture - brick
-   
-<br>
+      
+<img width="933" alt="스크린샷 2023-08-20 오후 1 46 18" src="https://github.com/Uncle-Bobs-Nephews/CleanArchitecture-Study/assets/98168685/cc7ec3d9-a487-4f27-ab3f-2ebb4a40337b">
+
+  
+<br><br>
 
 4. 리뷰 & 수정 사항 있으면 수정
 
