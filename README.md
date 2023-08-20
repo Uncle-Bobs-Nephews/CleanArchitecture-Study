@@ -27,7 +27,7 @@
 
   - Merge Commit Message Convention 
     - [공부 주제] - [닉네임]
-    - The Clean Architecture - brick
+    - The Clean Architecture - brick(#33)
 
 <img width="553" alt="스크린샷 2023-08-20 오후 1 29 59" src="https://github.com/Uncle-Bobs-Nephews/CleanArchitecture-Study/assets/98168685/cd688fae-19cf-4811-bdfb-561f41d7d8c5">
 <img width="867" alt="스크린샷 2023-08-20 오후 1 30 13" src="https://github.com/Uncle-Bobs-Nephews/CleanArchitecture-Study/assets/98168685/bea08d4f-6b5c-4706-941a-bb155b3e41be">
